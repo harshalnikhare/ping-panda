@@ -112,7 +112,7 @@ const Page = () => {
                     timestamp="Today at 5:11AM"
                     badgeText="Milestone"
                     badgeColor="#5865f2"
-                    title="👤 Revenue Milestone Achieved"
+                    title="🚀 Revenue Milestone Achieved"
                     content={{
                       recurringRevenue: "$5.000 USD",
                       growth: "+8.2%",
